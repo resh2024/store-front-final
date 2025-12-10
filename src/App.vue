@@ -124,7 +124,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #2c3950ff;
   margin-top: 120px;
 }
 
@@ -133,7 +133,7 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #0a5620;
+  background-color: #002babff;
   color: #fff;
   padding: 1rem;
   margin: 0;
